@@ -8,5 +8,5 @@ Também temos uma documentação Swagger, que você pode ver utilizando o swagge
 
 Pode contar conosco para te ajudar a **construir aplicações fantásticas**!  
 
-![Build Status](https://semaphoreci.com/api/v1/projects/7df2beff-bf7d-4be2-94e9-7cbd5f665714/1299446/shields_badge.svg) 
+![Build Status](https://semaphoreci.com/api/v1/projects/7df2beff-bf7d-4be2-94e9-7cbd5f665714/1249816/badge.svg)
 ![Coverage Status](https://coveralls.io/repos/github/pdvend/plug-and-play/badge.svg?branch=master&t=F2Sb0x)
